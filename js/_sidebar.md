@@ -21,4 +21,16 @@
   * [【进阶4-3期】面试题之如何实现一个深拷贝](/js/clone/deepClone.md)
   * [【进阶4-4期】Lodash是如何实现深拷贝的](/js/clone/lodashDeepClone.md)
 * 第 5 期：原型Prototype
-  * [【进阶 5-1 期】重新认识构造函数、原型和原型链](/js/prototype/baseProyotype.md)
+  * [【进阶5-1期】重新认识构造函数、原型和原型链](/js/prototype/baseProyotype.md)
+  * [【进阶5-2期】图解原型链及其继承优缺点](/js/prototype/prototypeInherit.md)
+  * [【进阶5-3期】深入探究 Function & Object 鸡蛋问题](/js/prototype/functionObjectResource.md)
+* 第 6 期：高阶函数
+  * [【进阶6-1期】JavaScript 高阶函数浅析](/js/high/baseHigh.md)
+  * [【进阶6-2期】深入高阶函数应用之柯里化](/js/high/currying.md)
+  * [【进阶6-3期】Array 原型方法源码实现大解密](/js/high/arraySourceCode.md)
+* 第 7 期：防抖节流
+  * [【进阶7-1期】深入浅出节流函数 throttle](/js/antiShakeThrottling/throttle.md)
+  * [【进阶7-2期】深入浅出防抖函数 debounce](/js/antiShakeThrottling/debounce.md)
+  * [【进阶7-3期】Throttle 和 Debounce 在 React 中的应用](/js/antiShakeThrottling/throttleDebounceReact.md)
+  * [【进阶7-4期】深入篇 | 阿里 P6 必会 Lodash 防抖节流函数实现原理](/js/antiShakeThrottling/lodashPrinciple.md)
+  * [【进阶7-5期】浅出篇 | 7 个角度吃透 Lodash 防抖节流原理](/js/antiShakeThrottling/lodashThrottleDebounce.md)
