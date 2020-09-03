@@ -455,6 +455,8 @@ Redux 是一个 **数据管理中心**，可以把它理解为一个全局的 da
 
 * 大致的数据结构如下所示:
 
+[数据结构示例图](https://user-gold-cdn.xitu.io/2019/3/21/1699e0d09c40cec7?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+
 ![数据结构示例图](https://user-gold-cdn.xitu.io/2019/3/21/1699e0d09c40cec7?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 
 * **理念实现**:
@@ -751,6 +753,8 @@ SSR，俗称 **服务端渲染** (Server Side Render)，讲人话就是: 直接�
     * Virtual Dom: 让前端代码脱离浏览器运行。
 
 * **条件**: Node 中间层、 React / Vue 等框架。 结构大概如下:
+
+[结构图](https://user-gold-cdn.xitu.io/2019/3/21/1699e0d41797a4d1?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 
 ![结构图](https://user-gold-cdn.xitu.io/2019/3/21/1699e0d41797a4d1?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 

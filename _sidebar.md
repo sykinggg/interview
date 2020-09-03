@@ -1,5 +1,5 @@
 * [首页]()
-* [js 面试题](/jsInterview/interview/baseInterview.md)
+* [面试题](/jsInterview/interview/baseInterview.md)
 * [js 概念](/js/stack/executionStack.md)
 * [css](/css/interview/baseCss.md)
 * [浏览器 面试题](/browser/interview/baseInterview.md)
